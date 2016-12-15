@@ -1,0 +1,12 @@
+.container {
+  margin-top: 25px;
+}
+
+.list-group-item {
+  cursor: pointer;
+  transition: .3s ease-out;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
